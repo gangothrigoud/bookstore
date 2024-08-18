@@ -1,0 +1,59 @@
+body{
+   margin: 0px;
+}
+.parent{
+   background-color: aqua;
+   height: 10vh;
+   width: 100vw;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-decoration: none;
+   position: fixed;
+   
+
+}
+.item{
+   
+   height: 5vh;
+   width: 10vw;
+  
+  text-align:justify;
+  gap: 300px;
+   background-color: aliceblue;
+   
+}
+.item{
+   
+   height: 5vh;
+   width: 10vw;
+  
+  text-align:justify;
+  gap: 300px;
+   background-color: aliceblue;
+   margin-left: 100px;
+   padding-left: 50px;
+   padding-top: 20px;
+
+   text-decoration-line: none;
+   
+}
+
+
+
+.bg-container{
+   background-image: url(./store.jpeg);
+   background-size: cover;
+   height: 100vh;
+   text-align: center;
+   padding-top: 500px;
+  
+   font-size: larger;
+    text-shadow: blue;
+
+}
+
+
+ 
+    
+                
